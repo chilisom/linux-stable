@@ -1,0 +1,15 @@
+/*
+ * Copyright (C) 2015 Grinn - http://www.grinn-global.com
+ * Grzegorz Glomb <g.glomb@grinn-global.com>
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License version 2 as
+ * published by the Free Software Foundation.
+ */
+
+/dts-v1/;
+
+#include "am33xx.dtsi"
+#include "am335x-chilisom-gcs2.dtsi"
+#include "am335x-chiliboard-common.dtsi"
+#include "am335x-chiliboard-all-gpio.dtsi"
